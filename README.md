@@ -7,7 +7,7 @@
 🔗 **Demo**
 https://pluto007-lab.github.io/shift-app/
 
-![トップ画面](img/preview.png)
+![トップ画面](img/shift-app.png)
 
 ---
 
